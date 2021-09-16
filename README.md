@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mgorgeov97
-- 👀 I’m interested in ... gaming, sports, being outdoors, and of course all things TECH!
-- 🌱 I’m currently learning ... 
+- 👀 I’m interested in ... gaming, sports (mainly hockey and formula one), being outside
+- 🌱 I’m currently learning ... HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twitter & instagram: @mattvey16
 
