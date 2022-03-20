@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in ... gaming, sports, technology, and cooking!
 - 
-- 🌱 I’m currently learning ... HTML, CSS, JS, React.js, Node.js, AWS
+- 🌱 I’m currently learning ... HTML, CSS, JS, React.js
 - 
 - 📫 How to reach me ... twitter & instagram: @mattvey16 email: matthewggvey87@hotmail.com LinkedIn: https://www.linkedin.com/in/matthew-vey-4b9402151/
 - 
