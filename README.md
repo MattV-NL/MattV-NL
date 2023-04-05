@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt Vey
 - 
-- 👀 I’m interested in ... gaming, hockey, F1 racing, computer hardware, and cooking
+- 👀 I’m interested in ... gaming, hockey, F1 racing, computer hardware, and cooking!
 - 
 - 🌱 I’m currently learning ... HTML, CSS, JS, React.js, Node.js, automated testing, and CI/CD Pipelines
 - 
