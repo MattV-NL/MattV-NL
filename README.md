@@ -4,7 +4,7 @@
 -
 - 💻 My programming expirience ... HTML, CSS, JS, React.js, Node.js, ORMs, automated testing, and CI/CD Pipelines, QA
 - 
-- 🌱 I’m currently learning ... AWS Console, Machine Learning Implementations, OpenAI API, other ORMs
+- 🌱 I’m currently learning ... AWS Console, Machine Learning Implementations, OpenAI API, Python
 - 
 - 📫 How to reach me ... twitter & instagram: @mattvey16 email: matthewvey@outlook.com LinkedIn: https://www.linkedin.com/in/matthew-vey/
 - 
