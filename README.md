@@ -2,9 +2,9 @@
 - 
 - 👀 I’m interested in ... gaming, hockey, F1 racing, computer hardware, and cooking! 
 -
-- 💻 My programming expirience ... HTML, CSS, JS, React.js, Node.js, ORMs, automated testing, CI/CD Pipelines, QA
+- 💻 My programming expirience ... HTML, CSS, JS, React.js, Node.js, ORMs, automated testing, CI/CD Pipelines, QA, Python, OpenAI API
 - 
-- 🌱 I’m currently learning ... AWS SQS / Lambda / EC2, Machine Learning Implementations, OpenAI API, Python
+- 🌱 I’m currently learning ... AWS, Docker, Machine Learning Implementations
 - 
 - 📫 How to reach me ... twitter & instagram: @mattvey16 email: matthewvey@outlook.com LinkedIn: https://www.linkedin.com/in/matthew-vey/
 - 
