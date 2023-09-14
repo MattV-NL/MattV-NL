@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in ... gaming, hockey, F1 racing, computer hardware, and cooking!
 -
-- 💻 My programming expirience ... HTML, CSS, JS, React.js, Node.js, ORMs, automated testing, CI/CD Pipelines, QA, Python, OpenAI API
+- 💻 My programming expirience ... HTML, CSS, JS, React.js, Node.js, ORMs, automated testing, CI/CD Pipelines, QA, Python, OpenAI API 
 - 
 - 🌱 I’m currently learning ... AWS, Docker, Machine Learning Implementations
 - 
