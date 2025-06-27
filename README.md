@@ -4,5 +4,5 @@ About me ... I'm currently the CEO for OPAS Mobile, where I tackle the challenge
 
 [![Gmail](https://img.shields.io/badge/matt@opasmobile.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matt@opasmobile.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-vey/)
  
-### Languages and Tools
+### Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,expressjs,aws,git,github,postgres,graphql)](https://skillicons.dev)
